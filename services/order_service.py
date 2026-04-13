@@ -1,2 +1,2 @@
 def calcular_total(precio):
-    return precio * 1.12
+    return precio * 1.16
